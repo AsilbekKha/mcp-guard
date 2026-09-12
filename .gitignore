@@ -1,0 +1,23 @@
+# Gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
